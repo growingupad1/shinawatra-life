@@ -1,0 +1,2 @@
+# shinawatra-life
+GitHub Pages
